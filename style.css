@@ -10,11 +10,9 @@ body {
       background-repeat: no-repeat;
       background-attachment: fixed;
     }
-    
 h1{
     font-size: 3em;
 }
-
 .chef-box {
       display: inline-block;
       font-family: Georgia, 'Times New Roman', Times, serif;
@@ -49,4 +47,3 @@ h1{
       font-size: 18px;
       color: #333;
     }
-  
